@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Chandisa\OneDrive - National Institute of Business Management\01- NIBM\02 - CSE\03 - Final Project\06 - UI Design\Final\2024-03-25.1\FinalProjectHMS\FinalProjectHMS\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="06-AdminForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="03-AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="01-ChooseLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="02-ChooseLogin1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="03-DoctorLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="07-DocForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="08-PatientForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="04-PatientLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="09-AdminNewPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="10-DocNewPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="11-PatientNewPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="12-AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="13-AdminViewDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="14-DoctorRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="15-RemoveDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="16-AdminViewPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="17-PatientRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="18-RemovePatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="19-ManageAppointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="20-PlaceAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="21-RemoveAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="22-ViewPrescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="23-ManageRooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="24-ManageBills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="25-ViewPaidBills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="26-DoctorDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="27-DoctorAppointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="28-DoctorPrescriptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="29-PatientDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="30-PatientAppointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="31-PatientPrescriptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
